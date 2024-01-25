@@ -12,8 +12,8 @@
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: https://github.com/stolenfallen1/four-card-feature
+-   Live Site URL: https://four-card-feature-seven-rho.vercel.app
 
 ### Built with
 
